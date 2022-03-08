@@ -1,4 +1,4 @@
-# 20200308 5maskmap
+# 20200308-maskmap
 
 ### Vue 2 口罩地圖練習
 https://jesseruby.github.io/maskmap/
